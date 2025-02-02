@@ -1,0 +1,2 @@
+000001, Laptop, Laptop from Lenovo, 1200.0
+000002, TV, TV from LG, 3600.0
